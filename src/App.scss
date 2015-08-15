@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.mdl-grid {max-width: 1040px;}
+
+@import '~material-design-lite/src/card/_card.scss';
+@import '~material-design-lite/src/shadow/_shadow.scss';
